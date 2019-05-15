@@ -1,2 +1,2 @@
 # mukunda
-ligps.py programbelongs to gps module 
+ligps.py program belongs to gps module 
